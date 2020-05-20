@@ -1,0 +1,12 @@
+/Users/pawlus/Projects/FileManagement/FileManagement/bin/Debug/netcoreapp3.1/FileManagement.deps.json
+/Users/pawlus/Projects/FileManagement/FileManagement/bin/Debug/netcoreapp3.1/FileManagement.runtimeconfig.json
+/Users/pawlus/Projects/FileManagement/FileManagement/bin/Debug/netcoreapp3.1/FileManagement.runtimeconfig.dev.json
+/Users/pawlus/Projects/FileManagement/FileManagement/bin/Debug/netcoreapp3.1/FileManagement.dll
+/Users/pawlus/Projects/FileManagement/FileManagement/bin/Debug/netcoreapp3.1/FileManagement.pdb
+/Users/pawlus/Projects/FileManagement/FileManagement/obj/Debug/netcoreapp3.1/FileManagement.csprojAssemblyReference.cache
+/Users/pawlus/Projects/FileManagement/FileManagement/obj/Debug/netcoreapp3.1/FileManagement.csproj.CoreCompileInputs.cache
+/Users/pawlus/Projects/FileManagement/FileManagement/obj/Debug/netcoreapp3.1/FileManagement.AssemblyInfoInputs.cache
+/Users/pawlus/Projects/FileManagement/FileManagement/obj/Debug/netcoreapp3.1/FileManagement.AssemblyInfo.cs
+/Users/pawlus/Projects/FileManagement/FileManagement/obj/Debug/netcoreapp3.1/FileManagement.dll
+/Users/pawlus/Projects/FileManagement/FileManagement/obj/Debug/netcoreapp3.1/FileManagement.pdb
+/Users/pawlus/Projects/FileManagement/FileManagement/obj/Debug/netcoreapp3.1/FileManagement.genruntimeconfig.cache

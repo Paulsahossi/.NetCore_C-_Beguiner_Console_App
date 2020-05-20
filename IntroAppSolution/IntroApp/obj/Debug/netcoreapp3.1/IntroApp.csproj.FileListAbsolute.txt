@@ -1,0 +1,12 @@
+/Users/pawlus/Projects/IntroAppSolution/IntroApp/obj/Debug/netcoreapp3.1/IntroApp.csprojAssemblyReference.cache
+/Users/pawlus/Projects/IntroAppSolution/IntroApp/obj/Debug/netcoreapp3.1/IntroApp.csproj.CoreCompileInputs.cache
+/Users/pawlus/Projects/IntroAppSolution/IntroApp/obj/Debug/netcoreapp3.1/IntroApp.AssemblyInfoInputs.cache
+/Users/pawlus/Projects/IntroAppSolution/IntroApp/obj/Debug/netcoreapp3.1/IntroApp.AssemblyInfo.cs
+/Users/pawlus/Projects/IntroAppSolution/IntroApp/bin/Debug/netcoreapp3.1/IntroApp.deps.json
+/Users/pawlus/Projects/IntroAppSolution/IntroApp/bin/Debug/netcoreapp3.1/IntroApp.runtimeconfig.json
+/Users/pawlus/Projects/IntroAppSolution/IntroApp/bin/Debug/netcoreapp3.1/IntroApp.runtimeconfig.dev.json
+/Users/pawlus/Projects/IntroAppSolution/IntroApp/bin/Debug/netcoreapp3.1/IntroApp.dll
+/Users/pawlus/Projects/IntroAppSolution/IntroApp/bin/Debug/netcoreapp3.1/IntroApp.pdb
+/Users/pawlus/Projects/IntroAppSolution/IntroApp/obj/Debug/netcoreapp3.1/IntroApp.dll
+/Users/pawlus/Projects/IntroAppSolution/IntroApp/obj/Debug/netcoreapp3.1/IntroApp.pdb
+/Users/pawlus/Projects/IntroAppSolution/IntroApp/obj/Debug/netcoreapp3.1/IntroApp.genruntimeconfig.cache

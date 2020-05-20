@@ -1,0 +1,12 @@
+/Users/pawlus/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/pawlus/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/pawlus/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/pawlus/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/pawlus/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/pawlus/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/pawlus/myApp/obj/Debug/netcoreapp3.1/myApp.csproj.CoreCompileInputs.cache
+/Users/pawlus/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/pawlus/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/pawlus/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/pawlus/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/Users/pawlus/myApp/obj/Debug/netcoreapp3.1/myApp.genruntimeconfig.cache

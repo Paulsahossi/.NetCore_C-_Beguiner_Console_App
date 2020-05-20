@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C5D8E77D-FA37-4D3E-874D-8B507021BE89}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassesAndObjects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndObjects/Program.cs">
+    <Files>
+      <File FileName="ClassesAndObjects/Program.cs" Line="16" Column="22" />
+      <File FileName="ClassesAndObjects/Person.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassesAndObjects" expanded="True">
+            <Node name="ClassesAndObjects" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

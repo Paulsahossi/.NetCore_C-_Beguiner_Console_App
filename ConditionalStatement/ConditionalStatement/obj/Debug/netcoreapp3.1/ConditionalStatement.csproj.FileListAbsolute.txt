@@ -1,0 +1,12 @@
+/Users/pawlus/Projects/ConditionalStatement/ConditionalStatement/bin/Debug/netcoreapp3.1/ConditionalStatement.deps.json
+/Users/pawlus/Projects/ConditionalStatement/ConditionalStatement/bin/Debug/netcoreapp3.1/ConditionalStatement.runtimeconfig.json
+/Users/pawlus/Projects/ConditionalStatement/ConditionalStatement/bin/Debug/netcoreapp3.1/ConditionalStatement.runtimeconfig.dev.json
+/Users/pawlus/Projects/ConditionalStatement/ConditionalStatement/bin/Debug/netcoreapp3.1/ConditionalStatement.dll
+/Users/pawlus/Projects/ConditionalStatement/ConditionalStatement/bin/Debug/netcoreapp3.1/ConditionalStatement.pdb
+/Users/pawlus/Projects/ConditionalStatement/ConditionalStatement/obj/Debug/netcoreapp3.1/ConditionalStatement.csprojAssemblyReference.cache
+/Users/pawlus/Projects/ConditionalStatement/ConditionalStatement/obj/Debug/netcoreapp3.1/ConditionalStatement.csproj.CoreCompileInputs.cache
+/Users/pawlus/Projects/ConditionalStatement/ConditionalStatement/obj/Debug/netcoreapp3.1/ConditionalStatement.AssemblyInfoInputs.cache
+/Users/pawlus/Projects/ConditionalStatement/ConditionalStatement/obj/Debug/netcoreapp3.1/ConditionalStatement.AssemblyInfo.cs
+/Users/pawlus/Projects/ConditionalStatement/ConditionalStatement/obj/Debug/netcoreapp3.1/ConditionalStatement.dll
+/Users/pawlus/Projects/ConditionalStatement/ConditionalStatement/obj/Debug/netcoreapp3.1/ConditionalStatement.pdb
+/Users/pawlus/Projects/ConditionalStatement/ConditionalStatement/obj/Debug/netcoreapp3.1/ConditionalStatement.genruntimeconfig.cache

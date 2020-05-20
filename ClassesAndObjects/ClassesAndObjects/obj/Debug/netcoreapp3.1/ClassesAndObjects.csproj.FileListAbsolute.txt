@@ -1,0 +1,12 @@
+/Users/pawlus/Projects/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp3.1/ClassesAndObjects.deps.json
+/Users/pawlus/Projects/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp3.1/ClassesAndObjects.runtimeconfig.json
+/Users/pawlus/Projects/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp3.1/ClassesAndObjects.runtimeconfig.dev.json
+/Users/pawlus/Projects/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp3.1/ClassesAndObjects.dll
+/Users/pawlus/Projects/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp3.1/ClassesAndObjects.pdb
+/Users/pawlus/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp3.1/ClassesAndObjects.csprojAssemblyReference.cache
+/Users/pawlus/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp3.1/ClassesAndObjects.csproj.CoreCompileInputs.cache
+/Users/pawlus/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp3.1/ClassesAndObjects.AssemblyInfoInputs.cache
+/Users/pawlus/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp3.1/ClassesAndObjects.AssemblyInfo.cs
+/Users/pawlus/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp3.1/ClassesAndObjects.dll
+/Users/pawlus/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp3.1/ClassesAndObjects.pdb
+/Users/pawlus/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp3.1/ClassesAndObjects.genruntimeconfig.cache

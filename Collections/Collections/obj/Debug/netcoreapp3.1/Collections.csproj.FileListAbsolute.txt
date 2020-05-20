@@ -1,0 +1,12 @@
+/Users/pawlus/Projects/Collections/Collections/bin/Debug/netcoreapp3.1/Collections.deps.json
+/Users/pawlus/Projects/Collections/Collections/bin/Debug/netcoreapp3.1/Collections.runtimeconfig.json
+/Users/pawlus/Projects/Collections/Collections/bin/Debug/netcoreapp3.1/Collections.runtimeconfig.dev.json
+/Users/pawlus/Projects/Collections/Collections/bin/Debug/netcoreapp3.1/Collections.dll
+/Users/pawlus/Projects/Collections/Collections/bin/Debug/netcoreapp3.1/Collections.pdb
+/Users/pawlus/Projects/Collections/Collections/obj/Debug/netcoreapp3.1/Collections.csprojAssemblyReference.cache
+/Users/pawlus/Projects/Collections/Collections/obj/Debug/netcoreapp3.1/Collections.csproj.CoreCompileInputs.cache
+/Users/pawlus/Projects/Collections/Collections/obj/Debug/netcoreapp3.1/Collections.AssemblyInfoInputs.cache
+/Users/pawlus/Projects/Collections/Collections/obj/Debug/netcoreapp3.1/Collections.AssemblyInfo.cs
+/Users/pawlus/Projects/Collections/Collections/obj/Debug/netcoreapp3.1/Collections.dll
+/Users/pawlus/Projects/Collections/Collections/obj/Debug/netcoreapp3.1/Collections.pdb
+/Users/pawlus/Projects/Collections/Collections/obj/Debug/netcoreapp3.1/Collections.genruntimeconfig.cache

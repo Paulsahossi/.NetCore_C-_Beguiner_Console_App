@@ -1,0 +1,12 @@
+/Users/pawlus/Projects/CompilationModel1/CompilationModel1/bin/Debug/netcoreapp3.1/CompilationModel1.deps.json
+/Users/pawlus/Projects/CompilationModel1/CompilationModel1/bin/Debug/netcoreapp3.1/CompilationModel1.runtimeconfig.json
+/Users/pawlus/Projects/CompilationModel1/CompilationModel1/bin/Debug/netcoreapp3.1/CompilationModel1.runtimeconfig.dev.json
+/Users/pawlus/Projects/CompilationModel1/CompilationModel1/bin/Debug/netcoreapp3.1/CompilationModel1.dll
+/Users/pawlus/Projects/CompilationModel1/CompilationModel1/bin/Debug/netcoreapp3.1/CompilationModel1.pdb
+/Users/pawlus/Projects/CompilationModel1/CompilationModel1/obj/Debug/netcoreapp3.1/CompilationModel1.csprojAssemblyReference.cache
+/Users/pawlus/Projects/CompilationModel1/CompilationModel1/obj/Debug/netcoreapp3.1/CompilationModel1.csproj.CoreCompileInputs.cache
+/Users/pawlus/Projects/CompilationModel1/CompilationModel1/obj/Debug/netcoreapp3.1/CompilationModel1.AssemblyInfoInputs.cache
+/Users/pawlus/Projects/CompilationModel1/CompilationModel1/obj/Debug/netcoreapp3.1/CompilationModel1.AssemblyInfo.cs
+/Users/pawlus/Projects/CompilationModel1/CompilationModel1/obj/Debug/netcoreapp3.1/CompilationModel1.dll
+/Users/pawlus/Projects/CompilationModel1/CompilationModel1/obj/Debug/netcoreapp3.1/CompilationModel1.pdb
+/Users/pawlus/Projects/CompilationModel1/CompilationModel1/obj/Debug/netcoreapp3.1/CompilationModel1.genruntimeconfig.cache

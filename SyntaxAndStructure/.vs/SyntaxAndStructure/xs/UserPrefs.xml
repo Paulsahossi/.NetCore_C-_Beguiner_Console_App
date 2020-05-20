@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{142263F2-5D46-4548-9F79-DD3A86099ED0}|Default">
+  <MonoDevelop.Ide.ItemProperties.SyntaxAndStructure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SyntaxAndStructure/Program.cs">
+    <Files>
+      <File FileName="SyntaxAndStructure/Program.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SyntaxAndStructure" expanded="True" selected="True">
+            <Node name="SyntaxAndStructure" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/Program.cs" relfile="SyntaxAndStructure/Program.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

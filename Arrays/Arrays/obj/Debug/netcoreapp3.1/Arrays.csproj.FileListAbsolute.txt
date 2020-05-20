@@ -1,0 +1,12 @@
+/Users/pawlus/Projects/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.deps.json
+/Users/pawlus/Projects/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.json
+/Users/pawlus/Projects/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.dev.json
+/Users/pawlus/Projects/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.dll
+/Users/pawlus/Projects/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.pdb
+/Users/pawlus/Projects/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.csprojAssemblyReference.cache
+/Users/pawlus/Projects/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.csproj.CoreCompileInputs.cache
+/Users/pawlus/Projects/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfoInputs.cache
+/Users/pawlus/Projects/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfo.cs
+/Users/pawlus/Projects/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.dll
+/Users/pawlus/Projects/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.pdb
+/Users/pawlus/Projects/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.genruntimeconfig.cache

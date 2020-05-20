@@ -1,0 +1,12 @@
+/Users/pawlus/Projects/Types/Types/bin/Debug/netcoreapp3.1/Types.deps.json
+/Users/pawlus/Projects/Types/Types/bin/Debug/netcoreapp3.1/Types.runtimeconfig.json
+/Users/pawlus/Projects/Types/Types/bin/Debug/netcoreapp3.1/Types.runtimeconfig.dev.json
+/Users/pawlus/Projects/Types/Types/bin/Debug/netcoreapp3.1/Types.dll
+/Users/pawlus/Projects/Types/Types/bin/Debug/netcoreapp3.1/Types.pdb
+/Users/pawlus/Projects/Types/Types/obj/Debug/netcoreapp3.1/Types.csprojAssemblyReference.cache
+/Users/pawlus/Projects/Types/Types/obj/Debug/netcoreapp3.1/Types.csproj.CoreCompileInputs.cache
+/Users/pawlus/Projects/Types/Types/obj/Debug/netcoreapp3.1/Types.AssemblyInfoInputs.cache
+/Users/pawlus/Projects/Types/Types/obj/Debug/netcoreapp3.1/Types.AssemblyInfo.cs
+/Users/pawlus/Projects/Types/Types/obj/Debug/netcoreapp3.1/Types.dll
+/Users/pawlus/Projects/Types/Types/obj/Debug/netcoreapp3.1/Types.pdb
+/Users/pawlus/Projects/Types/Types/obj/Debug/netcoreapp3.1/Types.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+﻿namespace CritialShorCut
+{
+    class MyClass
+    {
+
+    }
+}

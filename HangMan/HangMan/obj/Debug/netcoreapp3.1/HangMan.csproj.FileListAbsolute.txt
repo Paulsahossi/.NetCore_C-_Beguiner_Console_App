@@ -1,0 +1,12 @@
+/Users/pawlus/Projects/HangMan/HangMan/bin/Debug/netcoreapp3.1/HangMan.deps.json
+/Users/pawlus/Projects/HangMan/HangMan/bin/Debug/netcoreapp3.1/HangMan.runtimeconfig.json
+/Users/pawlus/Projects/HangMan/HangMan/bin/Debug/netcoreapp3.1/HangMan.runtimeconfig.dev.json
+/Users/pawlus/Projects/HangMan/HangMan/bin/Debug/netcoreapp3.1/HangMan.dll
+/Users/pawlus/Projects/HangMan/HangMan/bin/Debug/netcoreapp3.1/HangMan.pdb
+/Users/pawlus/Projects/HangMan/HangMan/obj/Debug/netcoreapp3.1/HangMan.csprojAssemblyReference.cache
+/Users/pawlus/Projects/HangMan/HangMan/obj/Debug/netcoreapp3.1/HangMan.csproj.CoreCompileInputs.cache
+/Users/pawlus/Projects/HangMan/HangMan/obj/Debug/netcoreapp3.1/HangMan.AssemblyInfoInputs.cache
+/Users/pawlus/Projects/HangMan/HangMan/obj/Debug/netcoreapp3.1/HangMan.AssemblyInfo.cs
+/Users/pawlus/Projects/HangMan/HangMan/obj/Debug/netcoreapp3.1/HangMan.dll
+/Users/pawlus/Projects/HangMan/HangMan/obj/Debug/netcoreapp3.1/HangMan.pdb
+/Users/pawlus/Projects/HangMan/HangMan/obj/Debug/netcoreapp3.1/HangMan.genruntimeconfig.cache

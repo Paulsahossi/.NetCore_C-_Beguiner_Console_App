@@ -1,0 +1,12 @@
+/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/bin/Debug/netcoreapp3.1/SyntaxAndStructure.deps.json
+/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/bin/Debug/netcoreapp3.1/SyntaxAndStructure.runtimeconfig.json
+/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/bin/Debug/netcoreapp3.1/SyntaxAndStructure.runtimeconfig.dev.json
+/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/bin/Debug/netcoreapp3.1/SyntaxAndStructure.dll
+/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/bin/Debug/netcoreapp3.1/SyntaxAndStructure.pdb
+/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/obj/Debug/netcoreapp3.1/SyntaxAndStructure.csprojAssemblyReference.cache
+/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/obj/Debug/netcoreapp3.1/SyntaxAndStructure.csproj.CoreCompileInputs.cache
+/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/obj/Debug/netcoreapp3.1/SyntaxAndStructure.AssemblyInfoInputs.cache
+/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/obj/Debug/netcoreapp3.1/SyntaxAndStructure.AssemblyInfo.cs
+/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/obj/Debug/netcoreapp3.1/SyntaxAndStructure.dll
+/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/obj/Debug/netcoreapp3.1/SyntaxAndStructure.pdb
+/Users/pawlus/Projects/SyntaxAndStructure/SyntaxAndStructure/obj/Debug/netcoreapp3.1/SyntaxAndStructure.genruntimeconfig.cache

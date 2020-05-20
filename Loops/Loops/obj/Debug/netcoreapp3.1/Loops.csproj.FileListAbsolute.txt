@@ -1,0 +1,12 @@
+/Users/pawlus/Projects/Loops/Loops/bin/Debug/netcoreapp3.1/Loops.deps.json
+/Users/pawlus/Projects/Loops/Loops/bin/Debug/netcoreapp3.1/Loops.runtimeconfig.json
+/Users/pawlus/Projects/Loops/Loops/bin/Debug/netcoreapp3.1/Loops.runtimeconfig.dev.json
+/Users/pawlus/Projects/Loops/Loops/bin/Debug/netcoreapp3.1/Loops.dll
+/Users/pawlus/Projects/Loops/Loops/bin/Debug/netcoreapp3.1/Loops.pdb
+/Users/pawlus/Projects/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.csprojAssemblyReference.cache
+/Users/pawlus/Projects/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.csproj.CoreCompileInputs.cache
+/Users/pawlus/Projects/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.AssemblyInfoInputs.cache
+/Users/pawlus/Projects/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.AssemblyInfo.cs
+/Users/pawlus/Projects/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.dll
+/Users/pawlus/Projects/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.pdb
+/Users/pawlus/Projects/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.genruntimeconfig.cache

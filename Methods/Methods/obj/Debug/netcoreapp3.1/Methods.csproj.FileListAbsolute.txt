@@ -1,0 +1,12 @@
+/Users/pawlus/Projects/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.deps.json
+/Users/pawlus/Projects/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.json
+/Users/pawlus/Projects/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.dev.json
+/Users/pawlus/Projects/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.dll
+/Users/pawlus/Projects/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.pdb
+/Users/pawlus/Projects/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.csprojAssemblyReference.cache
+/Users/pawlus/Projects/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.csproj.CoreCompileInputs.cache
+/Users/pawlus/Projects/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfoInputs.cache
+/Users/pawlus/Projects/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfo.cs
+/Users/pawlus/Projects/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.dll
+/Users/pawlus/Projects/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.pdb
+/Users/pawlus/Projects/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.genruntimeconfig.cache
